@@ -1,14 +1,12 @@
 # CipherPix Privacy Policy
 
-**Effective date:** 2 November 2026  
+**Updated:** 2 November 2026  
 **App:** CipherPix (`com.cipherpix.app`) for Android  
-**Developer:** [Developer name]  
-**Contact:** [Contact email]
 
 > [!IMPORTANT]
 > **In short:** CipherPix has no internet permission. It cannot send your photos, videos, files,
 > passwords or anything else off your device, and the developer never receives any of it. There
-> are no ads, analytics, crash reporting or tracking.
+> are no ads, analytics, crash reporting or tracking. CipherPix is built with privacy at its core.
 
 ## Contents
 
