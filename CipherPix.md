@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > **In short:** CipherPix has no internet permission. It cannot send your photos, videos, files,
 > passwords or anything else off your device, and the developer never receives any of it. There
-> are no ads, analytics, crash reporting or tracking. CipherPix is built with privacy at its core.
+> are no ads, analytics, crash reporting or tracking.
 
 ## Contents
 
