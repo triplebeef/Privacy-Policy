@@ -121,4 +121,4 @@ date. Significant changes will also be noted in the app's changelog.
 
 ## Contact
 
-Questions about this policy can be sent to **[Contact email]**.
+Questions about this policy can be sent to **triplebeef28@gmail.com**.
